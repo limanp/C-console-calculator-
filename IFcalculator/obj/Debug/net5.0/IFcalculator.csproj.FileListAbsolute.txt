@@ -1,0 +1,16 @@
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\bin\Debug\net5.0\IFcalculator.exe
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\bin\Debug\net5.0\IFcalculator.deps.json
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\bin\Debug\net5.0\IFcalculator.runtimeconfig.json
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\bin\Debug\net5.0\IFcalculator.runtimeconfig.dev.json
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\bin\Debug\net5.0\IFcalculator.dll
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\bin\Debug\net5.0\ref\IFcalculator.dll
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\bin\Debug\net5.0\IFcalculator.pdb
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\obj\Debug\net5.0\IFcalculator.csproj.AssemblyReference.cache
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\obj\Debug\net5.0\IFcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\obj\Debug\net5.0\IFcalculator.AssemblyInfoInputs.cache
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\obj\Debug\net5.0\IFcalculator.AssemblyInfo.cs
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\obj\Debug\net5.0\IFcalculator.csproj.CoreCompileInputs.cache
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\obj\Debug\net5.0\IFcalculator.dll
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\obj\Debug\net5.0\ref\IFcalculator.dll
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\obj\Debug\net5.0\IFcalculator.pdb
+C:\Users\Axwel\source\repos\Lesson\IFcalculator\obj\Debug\net5.0\IFcalculator.genruntimeconfig.cache

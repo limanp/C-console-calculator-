@@ -1,0 +1,16 @@
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\bin\Debug\net5.0\SwitchCalculator.exe
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\bin\Debug\net5.0\SwitchCalculator.deps.json
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\bin\Debug\net5.0\SwitchCalculator.runtimeconfig.json
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\bin\Debug\net5.0\SwitchCalculator.runtimeconfig.dev.json
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\bin\Debug\net5.0\SwitchCalculator.dll
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\bin\Debug\net5.0\ref\SwitchCalculator.dll
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\bin\Debug\net5.0\SwitchCalculator.pdb
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\obj\Debug\net5.0\SwitchCalculator.csproj.AssemblyReference.cache
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\obj\Debug\net5.0\SwitchCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\obj\Debug\net5.0\SwitchCalculator.AssemblyInfoInputs.cache
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\obj\Debug\net5.0\SwitchCalculator.AssemblyInfo.cs
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\obj\Debug\net5.0\SwitchCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\obj\Debug\net5.0\SwitchCalculator.dll
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\obj\Debug\net5.0\ref\SwitchCalculator.dll
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\obj\Debug\net5.0\SwitchCalculator.pdb
+C:\Users\Axwel\source\repos\Lesson\SwitchCalculator\obj\Debug\net5.0\SwitchCalculator.genruntimeconfig.cache
